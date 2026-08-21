@@ -4,7 +4,7 @@ Sistema web desarrollado para la gestión de una operadora turística, como proy
 
 La aplicación permite centralizar diferentes procesos relacionados con la gestión de clientes, agencias, servicios, reservas y operaciones de una operadora turística.
 
-## 🚀 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 * PHP
 * Laravel
@@ -15,7 +15,7 @@ La aplicación permite centralizar diferentes procesos relacionados con la gesti
 * Git
 * GitHub
 
-## 📋 Funcionalidades
+##  Funcionalidades
 
 ### Gestión de usuarios
 
@@ -62,7 +62,7 @@ La aplicación permite centralizar diferentes procesos relacionados con la gesti
 
 * Generación de documentos PDF relacionados con los procesos del sistema.
 
-## 🗄️ Base de datos
+##  Base de datos
 
 El proyecto utiliza MySQL como sistema de gestión de base de datos.
 
@@ -81,6 +81,20 @@ El proyecto está desarrollado utilizando el patrón MVC proporcionado por Larav
 ##  Objetivo
 
 El objetivo del proyecto es desarrollar una solución web que permita centralizar y mejorar la gestión de los principales procesos de una operadora turística.
+
+## 📸 Capturas de pantalla
+
+### Inicio de sesión
+
+![Login](screenshots/operaciones.PNG)
+
+### Gestión de servicios
+
+![Servicios](screenshots/dashboard.PNG)
+
+### Gestión de reservas
+
+![Reservas](screenshots/reservas.PNG)
 
 ##  Autor
 
