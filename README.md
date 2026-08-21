@@ -86,7 +86,7 @@ El objetivo del proyecto es desarrollar una solución web que permita centraliza
 
 ### Inicio de sesión
 
-![operaciones](screenshots/operaciones.png)
+![operaciones](operaciones.png)
 
 ### Gestión de servicios
 
