@@ -1,4 +1,4 @@
-# Operadora Tours ETAI
+﻿# Operadora Tours ETAI
 
 Sistema web desarrollado para la gestión de una operadora turística, como proyecto de desarrollo de software.
 
@@ -86,15 +86,15 @@ El objetivo del proyecto es desarrollar una solución web que permita centraliza
 
 ### Inicio de sesión
 
-![operaciones](operaciones.png)
+![operaciones](operaciones.PNG)
 
 ### Gestión de servicios
 
-![Servicios](screenshots/dashboard.PNG)
+![Servicios](dashboard.PNG)
 
 ### Gestión de reservas
 
-![Reservas](screenshots/reservas.PNG)
+![Reservas](reservas.PNG)
 
 ##  Autor
 
